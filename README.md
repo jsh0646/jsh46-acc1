@@ -8,7 +8,7 @@
 컴퓨터공학을 기반으로 AI와 소프트웨어를 공부하고 있습니다.
 
 - **Education:** 한신대학교/AiSw계열 (학사 재학 중)
-- **Primary Focus:** System & Network Security, Vulnerability Analysis, Information Management Systems, SIEM
+- **Primary Focus:** 
 - **Contact:** jsh46@hs.ac.kr
 - **Links:** [Tech Blog](https://blog.example.com) | [LinkedIn](https://linkedin.com/in/example)
 
