@@ -1,6 +1,6 @@
 # 장성훈 (SeongHun Jang)
 
-**Computer Science & Information Security & Management**
+**Computer Science & AISW**
 
 ---
 
